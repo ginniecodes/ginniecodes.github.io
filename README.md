@@ -1,2 +1,2 @@
-# ginniecodes.github.io
+# ginniecodes
 Portfolio website
